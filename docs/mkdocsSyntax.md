@@ -14,3 +14,8 @@ Un ejemplo que añade 3 extensiones:
       - pymdownx.emoji:
           emoji_generator: !!python/name:pymdownx.emoji.to_png
 
+
+!!! Danger "Título"
+    Any number of other indented markdown elements.
+
+    This is the second paragraph.
