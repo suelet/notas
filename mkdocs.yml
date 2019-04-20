@@ -7,5 +7,5 @@ nav:
 markdown_extensions:
   - admonition
   - toc
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:pymdownx.emoji.to_png
+#  - pymdownx.emoji:
+#      emoji_generator: !!python/name:pymdownx.emoji.to_png
