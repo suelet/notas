@@ -1,7 +1,7 @@
-site_name: My Docs
+site_name: Sueleti - Mis notas
 nav:
   - Inicio: 'index.md'
-  - Comandos Linux: 'linux.md'
+  - Linux: 'linux.md'
   - MkDocs: 'mkdocsSyntax.md'
 
 markdown_extensions:
