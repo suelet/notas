@@ -1,1 +1,4 @@
 site_name: My Docs
+nav:
+  - Inicio: index.md
+  - Comandos Linux: linux.md
